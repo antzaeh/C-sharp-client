@@ -1,0 +1,7 @@
+D:\Koulu\Kolmosvuos\WebService\c#koodaus\VII\bin\Debug\VII.exe.config
+D:\Koulu\Kolmosvuos\WebService\c#koodaus\VII\bin\Debug\VII.exe
+D:\Koulu\Kolmosvuos\WebService\c#koodaus\VII\bin\Debug\VII.pdb
+D:\Koulu\Kolmosvuos\WebService\c#koodaus\VII\obj\Debug\VII.csproj.AssemblyReference.cache
+D:\Koulu\Kolmosvuos\WebService\c#koodaus\VII\obj\Debug\VII.csproj.CoreCompileInputs.cache
+D:\Koulu\Kolmosvuos\WebService\c#koodaus\VII\obj\Debug\VII.exe
+D:\Koulu\Kolmosvuos\WebService\c#koodaus\VII\obj\Debug\VII.pdb
